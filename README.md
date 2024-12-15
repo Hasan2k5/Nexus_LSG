@@ -1,6 +1,9 @@
 # Nexus LSDFi Platform
 
-![Nexus LSDFi](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&q=80&w=2232&ixlib=rb-4.0.3)
+![image](https://github.com/user-attachments/assets/8624cb33-e75f-4faf-b620-adecc70cb65f)
+
+
+![image](https://github.com/user-attachments/assets/26c65c78-f1e1-4fde-b3ae-def374354571)
 
 A next-generation Liquid Staking Derivatives (LSD) platform built on Mantle Network, enabling users to stake MNT tokens, participate in liquidity pools, and earn yield through innovative farming strategies.
 
